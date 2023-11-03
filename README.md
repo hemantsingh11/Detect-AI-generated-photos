@@ -38,3 +38,6 @@ The best performing model was a stacking ensemble with KNN, Logistic Regression,
 ## Usage
 The Jupyter notebook `source_code_colab_notebook.ipynb` contains the full machine learning pipeline including data preparation, model training, evaluation, and predictions.
 
+## References
+The dataset and competition details are available on [Bitgrit](https://bitgrit.net/competition/18).
+
